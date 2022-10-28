@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on **FARM ESTATE websystem & ProLife android app**
 
-- 🌱 I’m currently learning **Python , Java , Django**
+- 🌱 I’m currently learning **.NET , Azure DevOps ,MERN**
 
 - 📫 How to reach me **samudithajay@gmail.com**
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact **Mostly programmers enjoy caffeine while coding. drinking 2-6 cups of coffee per day interestingly!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
