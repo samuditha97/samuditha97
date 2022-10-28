@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samuditha97&label=Profile%20views&color=0e75b6&style=flat" alt="samuditha97" /> </p>
 
-- 🔭 I’m currently working on **FARM ESTATE websystem & ProLife android app**
+- 🔭 I’m currently working on **CICRA Solution**
 
 - 🌱 I’m currently learning **.NET , Azure DevOps ,MERN**
 
